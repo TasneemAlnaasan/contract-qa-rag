@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ChromaDB persistent storage
+chroma_db/
+
+# OS files
+.DS_Store
