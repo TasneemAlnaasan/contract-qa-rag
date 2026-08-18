@@ -10,7 +10,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 # ChromaDB persistent storage
-chroma_db/
 
 # OS files
 .DS_Store
