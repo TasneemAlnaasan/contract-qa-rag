@@ -1,12 +1,12 @@
 # Contract QA RAG
 
-An Advanced RAG (Retrieval-Augmented Generation) system for answering natural-language questions about legal contracts, built as part of a GenAI engineering portfolio.
+An Advanced RAG (Retrieval-Augmented Generation) system for answering natural-language questions about legal contracts.
 
 **Live demo:** [(https://appapppy-x97zrtnp7hwxez8fqwkvrt.streamlit.app/)]
 
 ## Overview
 
-This project answers questions about legal contracts using a hybrid retrieval pipeline combining semantic search, keyword search, query rewriting, and re-ranking — built step by step to deeply understand each component of an Advanced RAG system, rather than using an out-of-the-box framework.
+This project answers questions about legal contracts using a hybrid retrieval pipeline combining semantic search, keyword search, query rewriting, and re-ranking — built step by step to deeply understand each component of an Advanced RAG system.
 
 ## Architecture
 
